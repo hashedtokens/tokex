@@ -7,5 +7,5 @@ _Low latency, high frequency, unordered, decentralized multi-party token exchang
 
 ### Applications
 * PubSub with acknowledgement
-* Transaction orchestration 
+* Orchestrating token mediated transactions 
   
