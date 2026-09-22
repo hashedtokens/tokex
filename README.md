@@ -9,6 +9,6 @@ Equivalent to **`Multicast over TCP`**
 
 ### Applications
 * PubSub with acknowledgement
-* Orchestrating token mediated transactions
+* Token mediated transaction orchestration
 
   
